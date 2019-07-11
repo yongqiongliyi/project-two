@@ -1,0 +1,14 @@
+.bottom_t{
+    font-size:14px;
+}
+.f_color{
+    color:#aaa !important;
+    font-size:14px !important;
+}
+.bottom_b{
+    border-left:0.5px dashed #fff;
+    border-right:0.5px dashed #fff;
+}
+.bottom_h{
+    border-color:#aaa !important;
+}
